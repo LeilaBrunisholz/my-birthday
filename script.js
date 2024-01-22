@@ -10,9 +10,12 @@ function year1868(){
 }
 
 function year1607(){
-        document.getElementsById('imageChange').src='opera.png'
-        document.getElementById('textChange').innerText='LOrfeo by Claudio Monteverdi was the first recognized opera and it premiered on February 24, 1607'
+        document.getElementById('imageChange').src='opera.png'
+        document.getElementById('textChange').innerText='LOrfeo by Claudio Monteverdi was the first recognized opera and it premiered on February 24, 1607.'
+
 }
+
+
 
 
 
