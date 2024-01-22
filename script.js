@@ -15,6 +15,17 @@ function year1607(){
 
 }
 
+function year1981(){
+        document.getElementById('imageChange').src='royal.jpeg'
+        document.getElementById('textChange').innerText='Prince Charles and Princess Diana announced their engagement at Buckingham Palace on February 24, 1981.'
+
+}
+
+function year2002(){
+        document.getElementById('imageChange').src='olympics.webp'
+        document.getElementById('textChange').innerText='On February 24, 2002, the winter olympic games in Salt Lake city ended. '
+
+}
 
 
 
