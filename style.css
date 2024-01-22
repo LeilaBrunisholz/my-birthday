@@ -9,4 +9,18 @@
         font-style: initial;
       }
       
+body{
+    background-color: rgba(46, 39, 128, 0.504);
+}
+
+p{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+
+h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+
 }
